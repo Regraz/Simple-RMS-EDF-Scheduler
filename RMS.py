@@ -1,6 +1,4 @@
 # Title: Python-based Simple RMS Implementation
-# For the Homework 7 of course ECE8448
-# Author: Dongning Ma
 
 import numpy
 
